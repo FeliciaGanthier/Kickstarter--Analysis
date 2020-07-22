@@ -1,2 +1,2 @@
-# Kickstarter--Analysis
-Fundraising analysis for Louise 
+An Analysis of Kickstarter Campaigns
+Kickstarter fundraising analysis for Louise
