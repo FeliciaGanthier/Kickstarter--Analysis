@@ -35,7 +35,7 @@ The dataset was stored in 14 columns and 4115 rows since it contained data from 
 ##**Results**
 
 According to the Theater Outcomes By Launch Date data, most theater campaigns were launched in May, which also has the highest number of failed campaigns. December has the fewest launched campaigns and January has the highest number of canceled campaigns.   As shown in the following chart, the data suggests May and June launches for Plays and Theatre projects are factors in success. 
- ![Theate_Outcomes_vs_Launch](Theater_Outcomes _vs_Launch.png)
+ ![Theate_Outcomes_vs_Launch](https://github.com/FeliciaGanthier/Kickstarter--Analysis/blob/master/Resources/Theater_Outcomes_vs_Launch.png)
 
 As mentioned above and confirmed by the Outcomes Based on Goals data, campaigns with a goal between $1,000- $4,999 have a 73% success rate.  Louise’s goal, $10K-$12K, has a 54% chance of success so she may want to consider adjusting her budget. 
 
