@@ -17,7 +17,7 @@ To help Louise view the Kickstarter data quickly, I’ve color coded campaign ou
 *U.S. Crowd Funding*
 
 The tab marked Theatre Outcomes shows an overview of U.S. crowd funding theatre projects and is visualized in the chart below.  If more information is desired, the Subcategory Statistics tab shows U.S. specific data for all Kickstarter campaigns. Note: Plays were the most successful projects in general and for the theatre category. 
- <p align="center">![US Theater Outcomes](https://github.com/FeliciaGanthier/Kickstarter--Analysis/blob/master/Resources/US%20Theater%20Outcomes.png)
+![US Theater Outcomes](https://github.com/FeliciaGanthier/Kickstarter--Analysis/blob/master/Resources/US%20Theater%20Outcomes.png)
 
 *Establishing Campaign Timelines*
 
