@@ -42,7 +42,7 @@ As mentioned above and confirmed by the Outcomes Based on Goals data, campaigns 
 *Items to consider*
 
 It is important to remember lower goals, lead to more projects and higher success rates. Conversely, projects with higher goals have higher failure percentages. According to the Outcomes Based on Goals data, success percentage dips below 50% with goals in the $20,000- $25,000 range and continues to decline. However, there are exceptions in the dataset. Projects with goals between $35,000-$49,999 have a 67% success rate. See chart below or file named Outcomes_vs_Goals in the accompanying Resources folder. 
-![Outcomes_vs_Goals](Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](https://github.com/FeliciaGanthier/Kickstarter--Analysis/blob/master/Resources/Outcomes_vs_Goals.png)
 
 *Further Analysis* 
 
