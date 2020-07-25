@@ -22,7 +22,7 @@ The tab marked Theatre Outcomes shows an overview of U.S. crowd funding theatre 
 *Establishing Campaign Timelines*
 
 The tab marked Outcomes Based on Launch Date will help Louise plan a successful campaign timeline. The data, visualized below, shows May was the best month to launch a campaign and December had the least success overall. Note: July and October had the most failed campaigns. 
- ![Outcomes Based on Lauch Date](https://github.com/FeliciaGanthier/Kickstarter--Analysis/blob/master/Resources/Outcomes%20Based%20on%20Lauch%20Date.png)
+ ![Outcomes Based on Launch Date](https://github.com/FeliciaGanthier/Kickstarter--Analysis/blob/master/Resources/Outcomes%20Based%20on%20Launch%20Date.png)
 
 *Additional Information* 
 
